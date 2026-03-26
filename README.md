@@ -18,7 +18,7 @@ Bu layihə **Sabah FK** və **Qarabağ FK** komandalarının son oyun performans
 ## Layihə Faylları
 | Fayl | Təsvir |
 |------|--------|
-| `Footbal AZPL.xlsx` | Oyun məlumatları (xG, Shots, Goals və s.) |
+| `Football AZPL.xlsx` | Oyun məlumatları (xG, Shots, Goals və s.) |
 | `Football_Analysis.ipynb` | Colab notebook: analiz və vizuallaşdırma |
 | `README.md` | Layihə haqqında məlumat və istifadə təlimatları |
 

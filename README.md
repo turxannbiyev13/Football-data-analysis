@@ -7,6 +7,13 @@ Bu layihə **Sabah FK** və **Qarabağ FK** komandalarının son oyun performans
 - Ev və səfər oyunlarının müqayisəsi  
 - Statistika testləri və korrelyasiya analizləri  
 
+
+
+<img width="740" height="693" alt="download" src="https://github.com/user-attachments/assets/8ec8e7ed-c56c-48c0-b3af-4436b27117f5" />
+<img width="630" height="470" alt="download (2)" src="https://github.com/user-attachments/assets/bca3c40b-5a15-429b-9176-a84a7e0b5afe" />
+<img width="848" height="528" alt="download (1)" src="https://github.com/user-attachments/assets/c8061311-2f67-461d-a30a-bbf4b85b25ec" />
+
+
 ---
 
 ## İstifadə olunan Texnologiyalar
